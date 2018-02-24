@@ -85,7 +85,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="4dp"
                     android:onClick="add1pointA"
-                    android:text="Gool !!!" />
+                    android:text="Goal !!!" />
 
                 <Button
                     android:layout_width="match_parent"
@@ -173,7 +173,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="4dp"
                     android:onClick="add1pointB"
-                    android:text="Gool !!!" />
+                    android:text="Goal !!!" />
 
                 <Button
                     android:layout_width="match_parent"
